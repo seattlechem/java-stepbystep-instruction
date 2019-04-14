@@ -6,5 +6,5 @@
 - if validation fails, it reroutes back to login page and display error message in red (login failed. check userName or password).
 
 ## this is hard coded userName and password validation.
-- prerequisite: start with step 4 branch
+- prerequisite: start with step 5 branch
 
